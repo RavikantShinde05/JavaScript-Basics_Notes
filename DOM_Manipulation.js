@@ -9,7 +9,6 @@ document.getElementsByClassName(className);
 document.querySelector(selector)
 
 // ************************************************
-
 // 2. TO CHANGE ELEMENT;
 
 element.textContex;
@@ -18,14 +17,13 @@ element.innerText;
 
 
 // ************************************************
-
 // 3. TO MODIFY THE CSS PROPERTY;
 
 element.style.propertyName;
 
 
 // ************************************************
-
 // 4. TO HANDLE USER INTERACTION;
 
 element.addEventListener(type, listener, UseCapture);
+

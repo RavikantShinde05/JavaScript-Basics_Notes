@@ -30,6 +30,14 @@ array.toString();
 // this will convert an array to a comma separated string. 
 
 array.at();
+// this method will help you to get or target the element "at" that index position
+
 array.join();
+// this will help you to convert all the element in to string,
+//and joins all the elements of array and takes a seperator argument
+
 array.delete();
+// this will help you to delete the element at speacified/targeted index this may leave empty places or holes in array.
+
 array.isArray();
+// this method is use to identify the value passed is an array or not.
